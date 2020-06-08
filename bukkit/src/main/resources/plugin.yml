@@ -1,5 +1,5 @@
 name: AquaAnnouncement
-version: 1.0
+version: ${project.version}
 author: Shiryu
 main: io.github.shiryu.aquaannouncement.bukkit.AquaAnnouncement
 softdepend: [PlaceholderAPI]
