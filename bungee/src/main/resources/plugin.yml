@@ -1,0 +1,6 @@
+name: AquaAnnouncement
+version: ${project.version}
+author: Shiryu
+main: io.github.shiryu.aquaannouncement.bungee.AquaAnnouncement
+
+commands:

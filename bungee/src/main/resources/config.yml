@@ -1,0 +1,28 @@
+
+#############################################
+#                Aqua Announce              #
+#                    1.0                    #
+#                                           #
+#           @shiryucreative 2020            #
+#############################################
+
+#If you need ask something to the developers or If you have an issue you can come our discord.
+# https://discord.gg/hVzWXDb
+
+#Prefix for the announcements
+ANNOUNCE_PREFIX: "&6Announce&7>"
+
+#Announcement Delay
+ANNOUNCE_INTERVAL: 300
+
+#Player limit for the announcements
+PLAYER_LIMIT: 3
+
+
+#Your Announcements
+announcements:
+  default:
+    id: 0
+    announcementType: TEXT
+    sendType: BROADCAST
+    text: "&aDefault text"

@@ -1,0 +1,8 @@
+name: AquaAnnouncement
+version: 1.0
+author: Shiryu
+main: io.github.shiryu.aquaannouncement.bukkit.AquaAnnouncement
+softdepend: [PlaceholderAPI]
+depend: [ProtocolLib]
+
+commands:
